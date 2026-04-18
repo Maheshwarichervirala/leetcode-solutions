@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
