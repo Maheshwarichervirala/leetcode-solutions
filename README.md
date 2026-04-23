@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
