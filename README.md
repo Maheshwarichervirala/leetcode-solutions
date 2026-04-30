@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1518-water-bottles](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1518-water-bottles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1518-water-bottles](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1518-water-bottles) |
 ## Monotonic Stack
 |  |
 | ------- |
