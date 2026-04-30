@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
