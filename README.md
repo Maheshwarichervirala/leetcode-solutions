@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
