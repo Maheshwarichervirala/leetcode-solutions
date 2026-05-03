@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0796-rotate-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0136-single-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
