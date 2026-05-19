@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
