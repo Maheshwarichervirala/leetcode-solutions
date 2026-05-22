@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sorting
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0202-happy-number) |
 | [0454-4sum-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Matrix
 |  |
 | ------- |
