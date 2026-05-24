@@ -6,7 +6,6 @@ class Solution {
 
         int[] freq = new int[size + 1];
 
-        // Count frequency
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < n; j++) {
                 freq[grid[i][j]]++;
@@ -16,7 +15,6 @@ class Solution {
         int repeated = -1;
         int missing = -1;
 
-        // Find repeated and missing
         for(int i = 1; i <= size; i++) {
 
             if(freq[i] == 2) {
