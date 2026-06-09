@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0509-fibonacci-number) |
