@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0454-4sum-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [2126-destroying-asteroids](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0454-4sum-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0697-degree-of-an-array) |
