@@ -13,7 +13,6 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        // If there is only one node
         if (head == null || head.next == null) {
             return null;
         }
