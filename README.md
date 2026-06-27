@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3838-weighted-word-mapping](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Sorting
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Divide and Conquer
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0204-count-primes) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
