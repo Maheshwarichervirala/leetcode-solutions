@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
