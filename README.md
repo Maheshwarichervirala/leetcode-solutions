@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1672-richest-customer-wealth](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [1672-richest-customer-wealth](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
