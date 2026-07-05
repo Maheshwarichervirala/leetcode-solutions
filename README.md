@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2404-most-frequent-even-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2404-most-frequent-even-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Matrix
 |  |
