@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Matrix
