@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0036-valid-sudoku) |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
