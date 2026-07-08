@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0413-arithmetic-slices](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0268-missing-number) |
+| [0413-arithmetic-slices](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0454-4sum-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [1004-max-consecutive-ones-iii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting Sort
