@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
 | ------- |
