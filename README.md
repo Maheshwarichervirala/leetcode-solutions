@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0050-powx-n) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0141-linked-list-cycle) |
