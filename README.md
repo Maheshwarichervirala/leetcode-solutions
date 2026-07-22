@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
