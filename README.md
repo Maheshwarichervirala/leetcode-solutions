@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0454-4sum-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
