@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -543,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
