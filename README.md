@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -548,4 +549,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
