@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Database
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
