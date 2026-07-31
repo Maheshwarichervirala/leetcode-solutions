@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
