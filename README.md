@@ -1,3 +1,5 @@
+Pattern-wise DSA problem solving focuses on identifying the underlying technique behind a problem instead of solving each question independently. Common patterns include Two Pointers, Sliding Window, Binary Search, Prefix Sum, Hashing, Stack, Queue, Recursion, Backtracking, Greedy, Dynamic Programming, Sorting, Trees, Graphs, and Divide and Conquer. By solving multiple problems under each pattern, the goal is to recognize patterns quickly, understand why a particular approach works, analyze time and space complexity, and apply the same concept to new and unfamiliar problems.
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
