@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Union-Find
