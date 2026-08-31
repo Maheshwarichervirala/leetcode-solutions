@@ -6,16 +6,14 @@ public class Solution {
         
         while (fast != null && fast.next != null) {
             
-            slow = slow.next;          // move 1 step
-            fast = fast.next.next;     // move 2 steps
+            slow = slow.next;          
+            fast = fast.next.next;    
             
-            // cycle found
             if (slow == fast) {
                 return true;
             }
         }
         
-        // no cycle
         return false;
     }
 }
