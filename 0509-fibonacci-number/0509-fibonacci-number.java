@@ -1,17 +1,24 @@
 class Solution {
     public int fib(int n) {
-        int fib2=0;
-       int  fib1=1;
-       if(n<=1)
-       {
-        return n;
-       }
-        for(int i =2;i<=n;i++)
+        int [] dp = new int[n+1];
+        Arrays.fill(dp,-1);
+        return fib1(n,dp);
+    }
+    public int fib1(int n,int []dp)
+    {
+        if (n==0)
         {
-             int curr=fib1+fib2;
-             fib2=fib1;
-             fib1=curr;
+            return 0;
         }
-        return fib1;
+        if(n==1)
+        {
+            return 1;
+        }
+        if(dp[n] !=-1)
+        {
+            return dp[n];
+        }
+        dp[n]=fib1(n-1,dp)+fib1(n-2,dp);
+        return dp[n];
     }
 }
