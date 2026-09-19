@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
