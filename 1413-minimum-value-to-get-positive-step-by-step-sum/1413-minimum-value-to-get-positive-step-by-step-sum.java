@@ -7,7 +7,7 @@ class Solution {
             sum=sum+nums[i];
             min=Math.min(min,sum);
         }
-        int res=1-min;
-        return res;
+        
+        return 1-min;
     }
 }
