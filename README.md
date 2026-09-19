@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0848-shifting-letters](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0704-binary-search) |
+| [0848-shifting-letters](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [0860-lemonade-change](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0848-shifting-letters](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
