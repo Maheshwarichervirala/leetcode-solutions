@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0848-shifting-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Recursion
 |  |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
