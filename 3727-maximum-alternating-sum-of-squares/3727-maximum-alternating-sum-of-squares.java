@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 class Solution {
     public long maxAlternatingSum(int[] nums) {
