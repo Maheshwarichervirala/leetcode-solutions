@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -610,10 +612,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
