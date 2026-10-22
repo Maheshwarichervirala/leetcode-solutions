@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
