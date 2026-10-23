@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
@@ -748,4 +749,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
