@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Maheshwarichervirala/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Interactive
 |  |
 | ------- |
