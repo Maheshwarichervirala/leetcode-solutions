@@ -1,22 +1,33 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int low = -1;
-        int high = -1;
+        int[] result = new int[2];
+        result[0] = findBound(nums, target, true); 
+        result[1] = findBound(nums, target, false); 
+        return result;
+    }
 
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == target) {
-                low = i;
-                break;
+    private int findBound(int[] nums, int target, boolean isFirst) {
+        int low = 0;
+        int high = nums.length - 1;
+        int bound = -1;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] == target) {
+                bound = mid; 
+                if (isFirst) {
+                    high = mid - 1; 
+                } else {
+                    low = mid + 1;  
+                }
+            } else if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
         }
 
-        for (int j = nums.length - 1; j >= 0; j--) {
-            if (nums[j] == target) {
-                high = j;
-                break;
-            }
-        }
-
-        return new int[]{low, high};
+        return bound;
     }
 }
